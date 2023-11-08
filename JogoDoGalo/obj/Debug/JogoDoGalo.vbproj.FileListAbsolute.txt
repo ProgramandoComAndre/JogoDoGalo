@@ -1,0 +1,33 @@
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\bin\Debug\JogoDoGalo.exe
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\bin\Debug\JogoDoGalo.pdb
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\bin\Debug\JogoDoGalo.xml
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.Form1.resources
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.Resources.resources
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.exe
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.xml
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.pdb
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.Sobre.resources
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.SplashScreen.resources
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\bin\Debug\JogoDoGalo.exe.manifest
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\bin\Debug\JogoDoGalo.application
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.exe.manifest
+C:\Users\user\source\repos\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.application
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\bin\Debug\JogoDoGalo.exe.manifest
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\bin\Debug\JogoDoGalo.application
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\bin\Debug\JogoDoGalo.exe
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\bin\Debug\JogoDoGalo.pdb
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\bin\Debug\JogoDoGalo.xml
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.Form1.resources
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.Resources.resources
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.Sobre.resources
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.SplashScreen.resources
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.exe.manifest
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.application
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.exe
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.xml
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.pdb
+C:\Users\user\Desktop\Andre Teixeira nº2 12A\JogoDoGalo\JogoDoGalo\obj\Debug\JogoDoGalo.MainMenu.resources
